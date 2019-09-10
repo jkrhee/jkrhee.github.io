@@ -6,8 +6,8 @@ permalink: /publication/
 
 ### Publication
 
-(^$^ coresponding author)
-(^*^ first author)
+(~$~ coresponding author)
+(~*~ first author)
 
 - Inki Kim, Yeon‐Sook Choi, Jae Hwi Song, Eun A Choi, Sojung Park, Eun Ji Lee, **Je-Keun Rhee**, Song Cheol Kim, Suhwan Chang, A drug‐repositioning screen for primary pancreatic ductal adenocarcinoma cells identifies 6‐thioguanine as an effective therapeutic agent for TPMT‐low cancer cells, Molecular Oncology, 12(9):1526-1539, 2018.
 - **Je-Keun Rhee^*^**, Soo-Jin Kim, Byoung-Tak Zhang, Identifying DNA Methylation Modules Associated with a Cancer by Probabilistic Evolutionary Learning, IEEE Computational Intelligence Magazine, 13(3): 12-19, 2018.
